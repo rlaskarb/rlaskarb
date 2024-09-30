@@ -5,6 +5,7 @@
 ## 만나서 반갑습니다
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20rlaskarb%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
+![rlaskarb! stats](https://github-readme-stats.vercel.app/api?username=rlaskarb&show_icons=true&theme=catppuccin_latte)
 ## 저는 김남규라고 합니다.
 ### 앞으로 잘 부탁드립니다.
 ---
