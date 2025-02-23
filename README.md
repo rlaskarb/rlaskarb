@@ -1,8 +1,8 @@
-# Nice meet you!!
+# Nice meet you!
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaskarb%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## rlaskarb(김남규) 깃허브에 오신걸 환영합니다.
+## 위궤양 개츠비 깃허브에 오신걸 환영합니다.
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20to%20위궤양개츠비%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 <div style="text-align: left;">
