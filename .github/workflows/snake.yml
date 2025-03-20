@@ -1,0 +1,37 @@
+name: Generate Snake Game
+
+on:
+  # 매일 자정(UTC) 실행
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # 수동 실행 가능
+  workflow_dispatch:
+  
+  # main 브랜치에 push할 때 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # 잔디 애니메이션 생성
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: "rlaskarb"  # 본인 GitHub 아이디 입력
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # output 브랜치에 결과 푸시
+      - name: Push github-contribution-grid-snake.svg to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
