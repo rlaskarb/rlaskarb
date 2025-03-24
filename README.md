@@ -37,7 +37,7 @@
 </div>
 
 ---
-## 🐍 GitHub Contribution Snake
+## 🐍
 ![Snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg)
 
 
