@@ -1,19 +1,21 @@
 # 🌟 Welcome to 위궤양 개츠비 GitHub! 🌟  
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaskarb%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20위궤양%20개츠비!&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=70&height=250)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20위궤양%20개츠비!&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=70&height=200" width="100%" />
+</p>
 
-## 📌 About Me  
-> **김남규 | Developer in Training**  
-> 아직은 부족한 상태이지만, 꾸준한 실습과 협업을 통해 한 걸음씩 성장하고 있습니다.<br/>
-> 완벽하진 않아도, **똥손도 할 수 있다**는 신념으로 도전하고 있습니다!
 ---
 
-## 📚 Tech Stacks  
+## 🌱 나에 대해 살짝  
+> **김남규**  
+> 실습과 협업을 통해, 오늘보다 나은 개발자가 되기 위해 매일 한 걸음씩 나아가고 있습니다.<br/>
+> 완벽하지 않아도, **똥손도 해낼 수 있다**는 믿음으로 계속 도전 중입니다!
+
+---
+
+## 📚 사용 할수 있는 기술 스택  
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -31,14 +33,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊  나의 개발 흔적 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rlaskarb&show_icons=true&theme=catppuccin_latte" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlaskarb&theme=catppuccin_latte" width="48%">
 </div>
 
 ---
-## 🐍
+## 🐍 해보고 싶었던 .. ㅋㅋㅋ 지렁이!
 ![Snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg)
 
 
