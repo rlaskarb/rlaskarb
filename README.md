@@ -1,4 +1,4 @@
-# 🌟 Welcome to 위궤양 개츠비 GitHub !🌟  
+# 🌟 Welcome to 위궤양 개츠비 GitHub 🌟  
 
 
 
