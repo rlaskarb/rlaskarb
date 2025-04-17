@@ -4,16 +4,13 @@
 
 ## 🛠 기술 스택
 
-| 분류            | 사용 기술                                 | 활용 목적 및 역할 |
-|-----------------|-------------------------------------------|------------------|
-| **Frontend**     | HTML, CSS, JavaScript                     | 기본 UI 구성 |
-|                 | React                                     | SPA 구조 구현 |
-|                 | Thymeleaf                                 | 서버사이드 렌더링 템플릿 |
-| **Backend**      | Java, Spring Boot                         | REST API 설계 |
-|                 | Node.js                                   | 경량 API 서버 및 실험적 기능 개발 |
-| **Database**     | MySQL, Oracle                             | 데이터 저장 및 쿼리 |
-| **Dev & Tool**   | Git, GitHub, Notion, Figma                | 협업, 문서화, UI 기획 |
-|                 | Postman                                   | API 테스트 |
+| 분류        | 사용 기술                            | 활용 목적 및 역할 |
+|-------------|--------------------------------------|------------------|
+| **Frontend** | HTML, CSS, JavaScript, React, Thymeleaf | UI 구성 및 SPA/SSR 개발 |
+| **Backend**  | Java, Spring Boot, Node.js          | API 설계 및 로직 처리 |
+| **Database** | MySQL, Oracle                        | 데이터 저장 및 조회 |
+| **Tools**    | Git, GitHub, Notion, Figma, Postman | 협업, UI 설계, API 테스트 |
+
 
 
 <br/><hr/>
