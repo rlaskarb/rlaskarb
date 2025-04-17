@@ -1,28 +1,34 @@
-# 🌟 안녕하세요 김남규 입니다. 🌟  
-
-
-**오늘보다 나은 개발자가 되기 위해 매일 한 걸음씩 나아가고 있습니다.**
-
-
+#  안녕하세요! 웹 개발자 지망생 김남규입니다.
+꾸준한 학습과 프로젝트 경험을 바탕으로, 사용자 중심의 웹 서비스를 만드는 개발자가 되고자 합니다.
 <hr/>
 
-## 📚 사용 할수 있는 기술 스택  
-<div align="lift"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <br> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+## 📚 기술 스택  
+
+### 🎨 Frontend
+| 사용 기술                     | 활용 목적 및 역할 |
+|-------------------------------|------------------|
+| HTML, CSS, JavaScript        | 기본 웹 UI 구성 |
+| React                         | 컴포넌트 기반 SPA(싱글 페이지 애플리케이션) 구현 |
+| Thymeleaf                     | Spring과 연동된 서버 사이드 템플릿 렌더링 |
+
+                                      
+### 🧠 Backend
+| 사용 기술                     | 활용 목적 및 역할 |
+|-------------------------------|------------------|
+| Java, Spring Boot             | REST API 설계, 서버 로직 처리 |
+| Node.js                       | 비동기 API 서버 구축, 간단한 백엔드 처리 |
+                           
+### ☁️ Database 
+| 사용 기술                     | 활용 목적 및 역할 |
+|-------------------------------|------------------|
+| MySQL, Oracle                 | 데이터 저장, 조회, CRUD 처리 |
+
+### 🛠 Dev & Tool 
+| 사용 기술                     | 활용 목적 및 역할 |
+|-------------------------------|------------------|
+| Git, GitHub, Notion, Figma   | 버전 관리, 협업, UI 시안, 프로젝트 정리 |
+| Postman                       | API 테스트 및 디버깅 |
+
 
 <br/><hr/>
 
