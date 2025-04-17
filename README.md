@@ -1,22 +1,13 @@
-# 🌟 Welcome to 위궤양 개츠비 GitHub 🌟  
+# 🌟 안녕하세요 김남규 입니다. 🌟  
 
 
+**오늘보다 나은 개발자가 되기 위해 매일 한 걸음씩 나아가고 있습니다.**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20위궤양%20개츠비!&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=70&height=200" width="100%" />
-</p>
 
----
-
-## 🌱 나에 대해 살짝  
-> **김남규**  
-> 실습과 협업을 통해, 오늘보다 나은 개발자가 되기 위해 매일 한 걸음씩 나아가고 있는중입니다.<br/>
-> 완벽하지 않지만, **똥손도 할 수 있습니다**
-
----
+<hr/>
 
 ## 📚 사용 할수 있는 기술 스택  
-<div align="center"> 
+<div align="lift"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -31,19 +22,26 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
----
+<br/><hr/>
 
-## 📊  나의 개발 흔적 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaskarb&show_icons=true&theme=catppuccin_latte" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlaskarb&theme=catppuccin_latte" width="48%">
-</div>
+## 📂 프로젝트
+### [QualityCore](https://github.com/rlaskarb/QualityCore)
 
----
-## 왕지렁이
-![Snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg)
+#### 맥주생산 ERP 소개 
+생산 계획을 체계적으로 수립하고, 이를 바탕으로 각 공정에 구체적인 생산 지시를 내립니다.공정에서는 작업 표준과 라우팅에 따라 정확히 생산을 수행하고,
+완료된 제품이 출하대기 상태까지 원활히 관리될 수 있도록 지원합니다. 생산, 작업, 공정, 라우팅을 통합 관리하여, 맥주 제조 현장의 복잡한 업무를 쉽고 명확하게 만들어주는 솔루션입니다.
 
+- 담당역활 : 생산공정 관리 ( 분쇄~패키징(10개 공정) 공정별 UX 위주 기능구현)
 
+##
 
+### [LYNK_LIFE](https://github.com/rlaskarb/LYNK_LIFE)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+#### 보험회사 그룹웨어 소개
+보험회사를 위한 그룹웨어 시스템을 개발하였으며, 인사관리, 전자결재, DB관리, 계약관리등의 핵심 기능을 구현하였습니다.
+업무 효율성을 높이기 위해 직원 관리, 문서 승인 프로세스 자동화, 데이터베이스 최적화 및 계약 정보 체계화를 중점적으로 개발하였습니다. 
+
+- 담당역활 : 계약등록,고객등록,상품등록,계약조회,만기고객조회, 월별 실적현황
+  
+<br/><hr/>
+
