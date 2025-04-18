@@ -58,6 +58,7 @@
 
 </details>
 
+#### 🍺 [QualityCore](https://github.com/rlaskarb/QualityCore)
 
 <br/>
 
@@ -79,6 +80,7 @@
 
 </details>
 
+#### 📄 [LYNK_LIFE](https://github.com/rlaskarb/LYNK_LIFE)
 
 <br/><hr/>
 
