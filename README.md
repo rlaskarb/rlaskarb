@@ -18,11 +18,18 @@
 ## 📂 프로젝트
 
 
-### 🍺 **맥주생산 ERP 시스템** 
-생산계획 → 작업지시 → 공정 실행 → 실적 관리까지 전체 흐름 시뮬레이션. <br/>
-✨ 담당 기능: 10개 공정 흐름 구현, 작업지시 자동 연동, 실시간 UX 설계
-#### 👉  [GitHub 보기](https://github.com/rlaskarb/QualityCore)
+### 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
+> 생산 계획부터 공정 실행, 실적 관리까지 전 과정을 자동화한 ERP 백오피스 시스템
 
+**📌 주요 기여**
+- Spring Boot + JPA + Oracle 기반 백엔드 설계 및 LOT_NO 단위 공정 흐름 설계
+- 작업지시 생성 시 자동으로 공정 순서(분쇄→당화→여과→끓임→냉각→발효→숙성→패키징) 진행
+- React.js 기반 UI로 공정 상태 실시간 시각화 및 UX 흐름 구성
+
+**🛠 기술 스택**  
+Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
+
+🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
 
 ---
 
