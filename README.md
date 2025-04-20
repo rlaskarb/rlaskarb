@@ -21,15 +21,24 @@
 ### 🍺 **맥주생산 ERP 시스템** 
 생산계획 → 작업지시 → 공정 실행 → 실적 관리까지 전체 흐름 시뮬레이션. <br/>
 ✨ 담당 기능: 10개 공정 흐름 구현, 작업지시 자동 연동, 실시간 UX 설계
-##### 👉  [GitHub 보기](https://github.com/rlaskarb/QualityCore)
+#### 👉  [GitHub 보기](https://github.com/rlaskarb/QualityCore)
 
 
+---
 
-### 📄 [LYNK_LIFE](https://github.com/rlaskarb/LYNK_LIFE)
 
-#### 📄 **보험회사 그룹웨어** 
- 업무 효율성과 관리 편의성을 높이기 위해 계약 정보의 체계적 관리에 초점을 두었습니다.<br/>
-✨ 담당 기능: 계약 정보 관리, 실적 자동 조회, 만기 필터링 로직 구현
+### 🗂 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
+> Spring Boot 기반 백오피스 시스템 – 계약, 인사, 전자결재, 실적 관리 등 통합 기능 구현
+
+**📌 주요 기여**
+- 계약/고객/상품 등록: JSON 데이터 → DB 저장, MyBatis 연동
+- 계약 조회 및 만기 필터링: SQL 함수 기반 자동 계산 + Fetch API 비동기 처리
+- 영업 실적 현황판: 막대 그래프로 시각화, 실시간 만기고객 홈화면 연동
+
+**🛠 기술 스택**  
+Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstrap
+
+🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
 
 <hr/>
 
