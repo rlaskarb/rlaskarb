@@ -21,7 +21,7 @@
 ### 🍺 **맥주생산 ERP 시스템** 
 생산계획 → 작업지시 → 공정 실행 → 실적 관리까지 전체 흐름 시뮬레이션. <br/>
 ✨ 담당 기능: 10개 공정 흐름 구현, 작업지시 자동 연동, 실시간 UX 설계
-### 👉  [GitHub 보](https://github.com/rlaskarb/QualityCore)
+##### 👉  [GitHub 보기](https://github.com/rlaskarb/QualityCore)
 
 
 
