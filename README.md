@@ -29,7 +29,7 @@
 - 영업 실적 현황판: 막대 그래프로 시각화, 실시간 만기고객 홈화면 연동
 
 **🛠 기술 스택**  
-Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstrap
+Java, Spring Boot, MyBatis, MySQL, Thymeleaf, REST API, HTML5, CSS3, JavaScript, Bootstrap, Chart.js, Git, GitHub
 
 🔗 [GitHub 보기](https://github.com/rlaskarb/LYNK_LIFE)
 
