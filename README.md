@@ -31,7 +31,7 @@
 **🛠 기술 스택**  
 Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstrap
 
-🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
+🔗 [GitHub 보기](https://github.com/rlaskarb/LYNK_LIFE)
 
 <hr/>
 
@@ -46,7 +46,7 @@ Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstra
 **🛠 기술 스택**  
 Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
-🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
+🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)
 
 <hr/>
 
@@ -68,7 +68,7 @@ Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
 </details>
 
-🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
+🔗 [GitHub 보기](https://github.com/rlaskarb/LYNK_LIFE)
 
 <br/><hr/>
 
@@ -94,7 +94,7 @@ Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
 </details>
 
-🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
+🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)
 
 <br/>
 
