@@ -75,7 +75,7 @@ Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstra
 
 </details>
 
-#### 🍺 [QualityCore](https://github.com/rlaskarb/QualityCore)
+🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
 
 <br/>
 
@@ -97,7 +97,7 @@ Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstra
 
 </details>
 
-#### 📄 [LYNK_LIFE](https://github.com/rlaskarb/LYNK_LIFE)
+🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
 
 <br/><hr/>
 
