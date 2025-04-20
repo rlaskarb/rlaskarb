@@ -6,11 +6,11 @@
 
 | 분류         | 사용 기술 및 프레임워크                                             | 활용 목적 및 역할                        |
 |--------------|--------------------------------------------------------------------|------------------------------------------|
-| **프로그래밍 언어** | Java, JavaScript                                                  | 주요 개발 언어로 백엔드 및 프론트 구현               |
-| **프론트엔드**     | React.js(Redux, Router), Bootstrap, JQuery, HTML5, CSS3, Thymeleaf | SPA 및 SSR UI 구성, 반응형 인터페이스 구현         |
-| **백엔드**         | Spring Boot, Spring Framework, Spring Security(JWT), Servlet, JSP, Node.js, Rest API | 비즈니스 로직 구현, 인증/인가, REST API 설계       |
-| **데이터베이스**   | MySQL, Oracle, MyBatis, JDBC, JPA, Spring Data JPA              | 데이터 모델링 및 CRUD 기능 구현                   |
-| **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업                          |
+| **프로그래밍 언어** | Java, JavaScript                                                  | 주요 개발 언어로 백엔드 및 프론트 구현  |
+| **프론트엔드**     | React.js(Redux, Router), Bootstrap, JQuery, HTML5, CSS3, Thymeleaf | SPA 및 SSR UI 구성, 반응형 인터페이스 구현  |
+| **백엔드**         | Spring Boot, Spring Framework, Spring Security(JWT), Servlet, JSP, Node.js, Rest API | 비즈니스 로직 구현, 인증/인가, REST API 설계 |
+| **데이터베이스**   | MySQL, Oracle, MyBatis, JDBC, JPA, Spring Data JPA              | 데이터 모델링 및 CRUD 기능 구현        |
+| **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업      |
 | **협업/설계 도구** | Figma, Notion, Miro, Postman                                     | UI 설계, API 문서화 및 테스트, 협업 문서 관리          |
 
 
