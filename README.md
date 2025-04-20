@@ -20,23 +20,6 @@
 
 ## 📂 프로젝트
 
-
-### 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
-> 생산 계획부터 공정 실행, 실적 관리까지 전 과정을 자동화한 ERP 백오피스 시스템
-
-**📌 주요 기여**
-- Spring Boot + JPA + Oracle 기반 백엔드 설계 및 LOT_NO 단위 공정 흐름 설계
-- 작업지시 생성 시 자동으로 공정 순서(분쇄→당화→여과→끓임→냉각→발효→숙성→패키징) 진행
-- React.js 기반 UI로 공정 상태 실시간 시각화 및 UX 흐름 구성
-
-**🛠 기술 스택**  
-Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
-
-🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
-
----
-
-
 ### 🗂 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
 > Spring Boot 기반 백오피스 시스템 – 계약, 인사, 전자결재, 실적 관리 등 통합 기능 구현
 
@@ -52,9 +35,42 @@ Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstra
 
 <hr/>
 
+### 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
+> 생산 계획부터 공정 실행, 실적 관리까지 전 과정을 자동화한 ERP 백오피스 시스템
+
+**📌 주요 기여**
+- Spring Boot + JPA + Oracle 기반 백엔드 설계 및 LOT_NO 단위 공정 흐름 설계
+- 작업지시 생성 시 자동으로 공정 순서(분쇄→당화→여과→끓임→냉각→발효→숙성→패키징) 진행
+- React.js 기반 UI로 공정 상태 실시간 시각화 및 UX 흐름 구성
+
+**🛠 기술 스택**  
+Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
+
+🔗 [GitHub 보기](https://github.com/QualityCore/QualityCore-frontend)
+
+<hr/>
+
 ### 📸 프로젝트 대표 이미지
 
 <br/>
+
+#### LYNK_LIFE | 보험회사 그룹웨어 | 계약등록 ![계약등록](https://github.com/user-attachments/assets/c66060b3-a93c-47b9-8061-1d6b2e305aa6)
+<details>
+<summary>보험 계약을 등록 및 실적현황판 기능입니다</summary>
+
+  <br/>
+  
+📄 보험 계약을 등록하는 기능입니다.  
+사전에 등록된 **상품 정보, 고객 정보, 설계사 정보**를 불러와  
+작업자가 직접 입력하는 실수를 최소화하고,  
+등록된 계약은 **홈 화면 실적 현황판에 실시간으로 반영**되어  
+**계약 금액과 계약 건수**를 바로 확인할 수 있습니다.
+
+</details>
+
+🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
+
+<br/><hr/>
 
 #### QualityCore | 맥주생산 ERP | 끓임 공정 ![끓임공정gif](https://github.com/user-attachments/assets/cb385815-b42e-4291-8ce5-40462a2a9556)
 <details>
@@ -82,25 +98,4 @@ Java, Spring Boot (MVC + Security), MySQL, MyBatis, HTML, CSS, JS(ES6), Bootstra
 
 <br/>
 
-
-
-<br/>
-
-#### LYNK_LIFE | 보험회사 그룹웨어 | 계약등록 ![계약등록](https://github.com/user-attachments/assets/c66060b3-a93c-47b9-8061-1d6b2e305aa6)
-<details>
-<summary>보험 계약을 등록 및 실적현황판 기능입니다</summary>
-
-  <br/>
-  
-📄 보험 계약을 등록하는 기능입니다.  
-사전에 등록된 **상품 정보, 고객 정보, 설계사 정보**를 불러와  
-작업자가 직접 입력하는 실수를 최소화하고,  
-등록된 계약은 **홈 화면 실적 현황판에 실시간으로 반영**되어  
-**계약 금액과 계약 건수**를 바로 확인할 수 있습니다.
-
-</details>
-
-🔗 [GitHub 보기](https://github.com/LYNK-LIFE/Groupware.git)
-
-<br/><hr/>
 
