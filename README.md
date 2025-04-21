@@ -52,7 +52,6 @@ Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
 ### 📸 프로젝트 대표 이미지
 
-<br/>
 
 #### LYNK_LIFE | 보험회사 그룹웨어 | 계약등록 ![계약등록](https://github.com/user-attachments/assets/c66060b3-a93c-47b9-8061-1d6b2e305aa6)
 <details>
