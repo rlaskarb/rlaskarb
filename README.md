@@ -48,7 +48,7 @@ Java, Spring Boot, MyBatis, MySQL, Thymeleaf, REST API, HTML5, CSS3, JavaScript,
 **🛠 기술 스택**  
 Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
-🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)
+🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)  [사이트](lynklife-production.up.railway.app)
 
 <hr/>
 
