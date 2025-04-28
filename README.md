@@ -31,7 +31,9 @@
 **🛠 기술 스택**  
 Java, Spring Boot, MyBatis, MySQL, Thymeleaf, REST API, HTML5, CSS3, JavaScript, Bootstrap, Chart.js, Git, GitHub
 
-🔗 [GitHub 보기](https://github.com/rlaskarb/LYNK_LIFE)
+🔗 [GitHub 보기](https://github.com/rlaskarb/LYNK_LIFE) /  [배포된사이트](lynklife-production.up.railway.app)
+
+
 
 <hr/>
 
