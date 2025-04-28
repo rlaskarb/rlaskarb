@@ -12,6 +12,8 @@
 | **데이터베이스**   | MySQL, Oracle, MyBatis, JDBC, JPA, Spring Data JPA              | 데이터 모델링 및 CRUD 기능 구현        |
 | **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업      |
 | **협업/설계 도구** | Figma, Notion, Miro, Postman                                     | UI 설계, API 문서화 및 테스트, 협업 문서 관리          |
+| **배포/운영**      | Railway                                                         | 백엔드/프론트엔드 애플리케이션 배포 및 호스팅 |
+
 
 
 
