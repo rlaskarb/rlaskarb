@@ -72,7 +72,7 @@ Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
 
 </details>
 
-🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> / 🚀 <a href="https://lynklife-production.up.railway.app" target="_blank">배포된 웹사이트 보기</a> (id:123/pwd:123)
+🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> / 🚀 <a href="https://lynklife-production.up.railway.app" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
 
 <br/><hr/>
 
