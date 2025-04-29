@@ -26,7 +26,11 @@
 
 ## 📂 프로젝트
 
-### 🗂 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
+<br/>
+
+### ⛱️ 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
+
+
 ## 📌 개요
 
 보험사 내부 업무를 효율화하기 위한 그룹웨어 시스템입니다.
@@ -43,23 +47,34 @@
 - 실적 분석 대시보드
 - 만기 고객 자동 조회 및 알림
   
-🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> / 🚀 <a href="https://lynklife-production.up.railway.app/login" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
+🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> 
+/ 🚀 <a href="https://lynklife-production.up.railway.app/login" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
 
 
 
 
 <hr/>
+<br/>
 
 ### 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
-> 생산 계획부터 공정 실행, 실적 관리까지 전 과정을 자동화한 ERP 백오피스 시스템
 
-**📌 주요 기여**
-- Spring Boot + JPA + Oracle 기반 백엔드 설계 및 LOT_NO 단위 공정 흐름 설계
-- 작업지시 생성 시 자동으로 공정 순서(분쇄→당화→여과→끓임→냉각→발효→숙성→패키징) 진행
-- React.js 기반 UI로 공정 상태 실시간 시각화 및 UX 흐름 구성
+## 📌 개요
 
-**🛠 기술 스택**  
-Java, Spring Boot, Spring Data JPA, Oracle, React.js, Redux, Router, Rest API
+맥주 생산 공정(분쇄 → 당화 → 여과 → 끓임 → 냉각 → 발효 → 숙성 → 패키징)을  
+LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 백오피스 시스템입니다.
+
+## 🛠 사용 기술
+
+- 백엔드: Java, Spring Boot, Spring Data JPA
+- 프론트엔드: React.js, Redux, React Router
+- 데이터베이스: Oracle
+- API: REST API
+
+## ⚙️ 주요 기능
+
+- 생산 공정별 LOT_NO 흐름 관리 및 데이터 저장
+- 작업지시 생성 시 공정 자동 진행 기능 구현
+- 실시간 공정 상태 조회 및 시각화
 
 🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)  
 
