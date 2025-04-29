@@ -47,7 +47,7 @@
 - 실적 분석 대시보드
 - 만기 고객 자동 조회 및 알림
   
-🔗 [👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+[👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
 /[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 
@@ -76,7 +76,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 - 작업지시 생성 시 공정 자동 진행 기능 구현
 - 실시간 공정 상태 조회 및 시각화
 
-🔗 [👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+[👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <hr/> <br/>
 
@@ -97,7 +97,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 
 </details>
 
-🔗 [👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+[👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
 /[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 <br/><hr/>
@@ -124,7 +124,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 
 </details>
 
-🔗 [👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+[👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <br/>
 
