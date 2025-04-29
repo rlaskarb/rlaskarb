@@ -1,6 +1,8 @@
 # 👋 안녕하세요. 웹 개발자 지망생 김남규입니다.
-사용자 중심의 웹 서비스를 만들기 위해 꾸준히 학습하고 있습니다. <br/>
-Java와 Spring Boot를 활용한 백엔드 개발에 관심이 많으며, React를 이용한 프론트엔드 개발도 경험하고 있습니다.
+
+사용자 중심의 웹 서비스를 만들기 위해 꾸준히 학습하고 있으며, <br/>
+백엔드에서는 Java와 Spring Boot, 프론트엔드에서는 React를 활용한 개발 경험이 있습니다.  
+기능 구현뿐만 아니라 실무 흐름과 사용성을 고려한 개발을 목표로 삼고 있으며,  협업과 실전 감각을 키우기 위해 꾸준히 노력하고 있습니다.
 
 <hr/>
 
@@ -25,16 +27,22 @@ Java와 Spring Boot를 활용한 백엔드 개발에 관심이 많으며, React�
 ## 📂 프로젝트
 
 ### 🗂 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
-> Spring Boot 기반 백오피스 시스템 – 계약, 인사, 전자결재, 실적 관리 등 통합 기능 구현
+## 📌 개요
 
-**📌 주요 기여**
-- 계약/고객/상품 등록: JSON 데이터 → DB 저장, MyBatis 연동
-- 계약 조회 및 만기 필터링: SQL 함수 기반 자동 계산 + Fetch API 비동기 처리
-- 영업 실적 현황판: 막대 그래프로 시각화, 실시간 만기고객 홈화면 연동
+보험사 내부 업무를 효율화하기 위한 그룹웨어 시스템입니다.
 
-**🛠 기술 스택**  
-Java, Spring Boot, MyBatis, MySQL, Thymeleaf, REST API, HTML5, CSS3, JavaScript, Bootstrap, Chart.js, Git, GitHub
+## 🛠 사용 기술
 
+- 백엔드: Java, Spring Boot
+- 프론트엔드: Thymeleaf, Bootstrap
+- 데이터베이스: MySQL
+
+## ⚙️ 주요 기능
+
+- 고객/상품/계약 등록
+- 실적 분석 대시보드
+- 만기 고객 자동 조회 및 알림
+  
 🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> / 🚀 <a href="https://lynklife-production.up.railway.app/login" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
 
 
