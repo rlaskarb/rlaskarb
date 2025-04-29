@@ -47,7 +47,7 @@
 - 실적 분석 대시보드
 - 만기 고객 자동 조회 및 알림
   
-🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> 
+🔗 [👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
 / 🚀 <a href="https://lynklife-production.up.railway.app/login" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
 
 
@@ -76,7 +76,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 백오피스 시�
 - 작업지시 생성 시 공정 자동 진행 기능 구현
 - 실시간 공정 상태 조회 및 시각화
 
-🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)  
+🔗 [👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <hr/> <br/>
 
