@@ -48,7 +48,7 @@
 - 만기 고객 자동 조회 및 알림
   
 🔗 [👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
-/ 🚀 <a href="https://lynklife-production.up.railway.app/login" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
+/[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 
 
@@ -97,7 +97,8 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 백오피스 시�
 
 </details>
 
-🔗 <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank">GitHub 보기</a> / 🚀 <a href="https://lynklife-production.up.railway.app" target="_blank">배포된 웹사이트 보기</a> [ID:123/PWD:123]
+🔗 [👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+/[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 <br/><hr/>
 
@@ -123,7 +124,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 백오피스 시�
 
 </details>
 
-🔗 [GitHub 보기](https://github.com/rlaskarb/QualityCore)
+🔗 [👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <br/>
 
