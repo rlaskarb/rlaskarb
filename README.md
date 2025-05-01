@@ -13,9 +13,9 @@
 | **프로그래밍 언어** | Java, JavaScript                                                  | 주요 개발 언어로 백엔드 및 프론트 구현  |
 | **프론트엔드**     | React.js(Redux, Router), Bootstrap, JQuery, HTML5, CSS3, Thymeleaf | SPA 및 SSR UI 구성, 반응형 인터페이스 구현  |
 | **백엔드**         | Spring Boot, Spring Framework, Spring Security(JWT), Servlet, JSP, Node.js, Rest API | 비즈니스 로직 구현, 인증/인가, REST API 설계 |
-| **데이터베이스**   | MySQL, Oracle, MyBatis, JDBC, JPA, Spring Data JPA              | 데이터 모델링 및 CRUD 기능 구현        |
-| **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업      |
-| **협업/설계 도구** | Figma, Notion, Miro, Postman                                     | UI 설계, API 문서화 및 테스트, 협업 문서 관리          |
+| **데이터베이스**   | MySQL, Oracle, MyBatis, JDBC, JPA, Spring Data JPA              | 데이터 모델링 및 CRUD 기능 구현    |
+| **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업    |
+| **협업/설계 도구** | Figma, Notion, Miro, Postman                                     | UI 설계, API 문서화 및 테스트, 협업 문서 관리 |
 | **배포/운영**      | Railway                                                         | 백엔드/프론트엔드 애플리케이션 배포 및 호스팅 |
 
 
@@ -47,7 +47,7 @@
 - 실적 분석 대시보드
 - 만기 고객 자동 조회 및 알림
   
-[👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+[👉 GitHub 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
 /[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 
@@ -76,7 +76,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 - 작업지시 생성 시 공정 자동 진행 기능 구현
 - 실시간 공정 상태 조회 및 시각화
 
-[👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <hr/> <br/>
 
@@ -97,7 +97,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 
 </details>
 
-[👉 GitHub Repository 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+[👉 GitHub 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
 /[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
 
 <br/><hr/>
@@ -124,7 +124,7 @@ LOT_NO 단위로 자동 관리할 수 있도록 설계한 ERP 시스템입니다
 
 </details>
 
-[👉 GitHub Repository 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
 
 <br/>
 
