@@ -47,7 +47,7 @@ Java 풀스택과 UI/UX 퍼블리싱을 함께 익히며, 매일 실력을 키�
 - 만기 고객 자동 조회 및 알림
   
 [👉 GitHub 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
-/[🚀 배포된 웹사이트 바로 가기](https://lynklife-production.up.railway.app/login) [ID:123/PWD:123]
+
 
 
 
