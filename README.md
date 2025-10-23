@@ -1,7 +1,12 @@
 # 견고한 UI로 사용자 경험을 설계하는 개발자
-안녕하세요! UI/UX 구현에 강점을 둔 개발자 김남규입니다. <br>
-디자이너의 의도를 픽셀 단위로 구현하는 퍼블리싱 역량과, <br>
-JavaScript를 활용해 동적인 인터랙션을 구현하는 프론트엔드 역량을 균형 있게 갖추고 있습니다.
+
+안녕하세요! UI/UX 구현에 집중하는 개발자 김남규입니다.
+
+웹 표준과 접근성을 준수하는 견고한 퍼블리싱 역량 위에, 
+
+JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 더해, 
+
+이 두 역량을 균형 있게 활용하며 매일 성장하고 있습니다.
 
 <hr><br>
 
@@ -39,7 +44,10 @@ JavaScript를 활용해 동적인 인터랙션을 구현하는 프론트엔드 �
 
 - 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
-- Links: <a href="https://rlaskarb20.mycafe24.com/mobile/" target="_blank"> 케데헌 보러가기 </a>  | <a href="https://github.com/rlaskarb/KPopDemonHunters" target="_blank"> 케데헌 깃허브로 이동 </a>
+- **LINK**
+-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/KPopDemonHunters)
+-  [![케데헌 보러가기](https://img.shields.io/badge/-%EC%BC%80%EB%8D%B0%ED%97%8C%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-2C003E?style=for-the-badge)](https://rlaskarb.github.io/KPopDemonHunters/)
+ 
 
 <br>
 
