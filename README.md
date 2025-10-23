@@ -5,23 +5,50 @@
 
 <hr><br>
 
-# 🛠 기술 스택
 
-| 분류         | 사용 기술 및 프레임워크                                           | 활용 목적 및 역할                        |
-|--------------|--------------------------------------------------------------------|------------------------------------------|
-| **프로그래밍 언어** | Java, JavaScript , HTML5                                                 | 주요 개발 언어로 백엔드 및 프론트 구현  |
-| **프론트엔드**     | React.js(Redux, Router), Bootstrap, JQuery, CSS3, Thymeleaf | SPA 및 SSR UI 구성, 반응형 인터페이스 구현  |
-| **백엔드**         | Spring Boot, Spring Framework, Spring Security(JWT), Servlet, JSP, Node.js, Rest API | 비즈니스 로직 구현, 인증/인가, REST API 설계 |
-| **데이터베이스**   | MySQL, Oracle, Supbase , MyBatis, JDBC, JPA             | 데이터 모델링 및 CRUD 기능 구현    |
-| **형상 관리**      | Git, GitHub                                                      | 소스 버전 관리 및 팀 협업    |
-| **협업/설계 도구** | Figma, Notion, Miro, Postman                                     | UI 설계, API 문서화 및 테스트, 협업 문서 관리 |
-| **배포/운영**      | Railway                                                         | 백엔드/프론트엔드 애플리케이션 배포 및 호스팅 |
+
+
+
+
+
 
 
 
 
 
 <br/><hr/><br/>
+
+
+<br/>
+
+# 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
+
+## 📌 개요
+
+맥주 제조 공정의 생산부터 출하까지 전 과정을 직관적으로 관리할 수 있도록 설계한 ERP 시스템입니다.  
+생산계획 → 작업지시 → 공정 실행 → 실적 관리로 이어지는 흐름을 구현했으며,  
+현장 중심의 생산 관리 UX에 중점을 두었습니다.
+
+
+## 🛠 사용 기술
+
+- 백엔드: Java, Spring Boot, Spring Data JPA
+- 프론트엔드: React.js, Redux, React Router
+- 데이터베이스: Oracle
+- API: REST API
+
+## ⚙️ 직접 구현한 핵심 기능
+
+- 작업지시 기반 공정 흐름 자동화  
+- 공정별 원재료·수율 자동 연산 및 조건별 전환 처리  
+- LOT 단위 생산 기록 및 PDF 작업지시 연동
+
+[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+
+<hr/> <br/>
+
+
+
 
 # 📂  프로젝트
 
@@ -54,33 +81,6 @@
 
 
 ##
-<br/>
-
-# 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
-
-## 📌 개요
-
-맥주 제조 공정의 생산부터 출하까지 전 과정을 직관적으로 관리할 수 있도록 설계한 ERP 시스템입니다.  
-생산계획 → 작업지시 → 공정 실행 → 실적 관리로 이어지는 흐름을 구현했으며,  
-현장 중심의 생산 관리 UX에 중점을 두었습니다.
-
-
-## 🛠 사용 기술
-
-- 백엔드: Java, Spring Boot, Spring Data JPA
-- 프론트엔드: React.js, Redux, React Router
-- 데이터베이스: Oracle
-- API: REST API
-
-## ⚙️ 직접 구현한 핵심 기능
-
-- 작업지시 기반 공정 흐름 자동화  
-- 공정별 원재료·수율 자동 연산 및 조건별 전환 처리  
-- LOT 단위 생산 기록 및 PDF 작업지시 연동
-
-[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
-
-<hr/> <br/>
 
 # 📸 프로젝트 대표 이미지
 
