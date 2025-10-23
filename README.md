@@ -20,18 +20,30 @@
 |**Versiion Control**| `Git` / `GitHub` | SourceTree 활용 , 기본적인 버전 관리 및 팀 협업(브렌치, 병합) 경험. |★★★☆☆|
 |**Tools**| `Figma` , `Postman` , `Photoshop` | Figma 시안 해석/제작 , Postman API 테스트, Phostoshop 기본 이미지 편집 가능 |★★★★☆|
 
+<br/><hr/><br/>
 
+### ✨ GitHub Stats
 
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaskarb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaskarb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><hr/><br/>
+
 
 # 📂  프로젝트
 
 <br> <br>
 
+# 7-ELEVn 웹사이트 UX 개선 리뉴얼(PC) (2025.06 ~ 2025.07) 
+## 📌 개요
+웹 표준과 접근성을 완벽히 준수한 퍼블리싱 기본 위에, BaaS(Supa
+base) 기반 실시간 CRUD와 다중 JSON 데이터 처리(AJAX) 등 프론
+트엔드 기술을 주도적으로 학습하고 적용하여 동적인 기능과 완성도
+를 더했습니다
+
+## 🛠 사용 기술
+- 프론트엔드 : Js , jQurey , HTML5 , CSS3
+- Baas : Supabase 
 
 # 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
 ## 📌 개요
@@ -41,7 +53,7 @@
 
 ## 🛠 사용 기술
 - 백엔드: Java, Spring Boot, Spring Data JPA
-- 프론트엔드: React.js, Redux, React Router
+- 프론트엔드: React,Js, Redux, React Router, HTML5 ,CSS3
 - 데이터베이스: Oracle
 - API: REST API
 
@@ -63,8 +75,9 @@
 
 ## 🛠 사용 기술
 - 백엔드: Java, Spring Boot
-- 프론트엔드: Thymeleaf, Bootstrap
+- 프론트엔드:Js, HTML5, CSS3, Thymeleaf, Bootstrap
 - 데이터베이스: MySQL
+- API: REST API
 
 ## ⚙️ 직접 구현한 핵심 기능
 - 고객/상품/계약 등록
