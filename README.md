@@ -28,8 +28,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaskarb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><hr/><br/>
+![snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg) 
 
-
+<br/><hr/><br/>
 # 📂  프로젝트
 
 <br> <br>
