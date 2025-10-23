@@ -1,37 +1,29 @@
-name: Generate Snake Game
+name: Generate Snake Animation
 
 on:
-  # 매일 자정(UTC) 실행
   schedule:
     - cron: "0 0 * * *"
-  
-  # 수동 실행 가능
   workflow_dispatch:
-  
-  # main 브랜치에 push할 때 실행
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      # 잔디 애니메이션 생성
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: "rlaskarb"  # 본인 GitHub 아이디 입력
-          outputs: |
+    runs-on: ubuntu-latest 
+    steps: 
+      - name: Generate snake animation 
+        uses: Platane/snk@v3 
+        with: 
+          github_user_name: ${{ github.repository_owner }} 
+          outputs: | 
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
 
-      # output 브랜치에 결과 푸시
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy snake animation to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0 
         with:
-          github_token: ${{ secrets.GH_PAT }}
-          publish_branch: output
-          publish_dir: ./dist
+          target_branch: output
+          build_dir: dist
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
