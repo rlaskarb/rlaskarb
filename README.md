@@ -15,7 +15,7 @@
 |**Data & API**| `AJAX` / `JSON` | `fetch` API 등을 활용한 비동기 데이터 요청 및 JSON 파싱 / 처리 경험. |★★★☆☆ |
 |**Baas**| `Supabase` | 실시간 DB 연동 (CRUD), 스토리지 (이미지 업로드) 등 Supabase 핵심 기능 활용 경험. |★★☆☆☆ |
 |**Framework**|`React` | SPA 구조 , 컴포넌트 기반 UI 구축 ,기본 상태관리 (useState/useEffect) , API 연동(axios) 경험 (ERP 프로젝트) |★★☆☆☆|
-|**Backend**| `Java` , `Spring Boot`| Java , Spring Boot 기반 REST API 설계 및 CRUD 구현 경험, Repository 패턴등 백엔드 아키텍처 흐름을 이해 하고 있습니다. |★★★☆☆|
+|**Backend**| `Java` , `Spring Boot`| Java , Spring Boot 기반 REST API 설계 및 CRUD 구현 경험, Repository 패턴등 백엔드 아키텍처 흐름을 이해 하고 있습니다. |★★☆☆☆|
 |**Database**| `MySQL` , `Oracle` | 기본 CRUD 쿼리 작성 및 DB 설계 경험 (MyBatis , JPA 연동 경험 포함) |★★★☆☆| 
 |**Versiion Control**| `Git` / `GitHub` | SourceTree 활용 , 기본적인 버전 관리 및 팀 협업(브렌치, 병합) 경험. |★★★☆☆|
 |**Tools**| `Figma` , `Postman` , `Photoshop` | Figma 시안 해석/제작 , Postman API 테스트, Phostoshop 기본 이미지 편집 가능 |★★★★☆|
@@ -35,7 +35,7 @@
 
 ## 1. K-Pop Demon Hunters (Responsive Project)
 
-- 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. 144개+ 미디어에도 AVIF 변환, Intersection Observer 최적화로 Lighthouse 98점 확보 및 직접 구현 CSS 효과 적용.
+- 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. 144개+ 미디어를 AVIF 변환, Intersection Observer 최적화로 Lighthouse 98점 달성 및 직접 구현 CSS 효과 적용.
 
 - 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
@@ -67,7 +67,7 @@
 
 - 소개: React 기반 맥주 제조 공정(생산계획~출하) 관리 ERP 프론트엔드 개발. LOT 기반 10단계 공정 데이터 연동 및 상태 시각화 구현.
 
-- 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: 백엔드: Java, Spring Boot, JPA, ORACLE).
+- 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: Java, Spring Boot, JPA, ORACLE).
 
 - Links: <a href="https://github.com/rlaskarb/QualityCore" target="_blank"> 🐙 브로이 하우스 깃허브로 이동 </a>
 <br/>
