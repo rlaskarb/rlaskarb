@@ -8,11 +8,17 @@
 
 |기술 분류 | 기술 스택| 설명 & 경험| 숙련도(자기평가)|
 | :-------------------| :-------------------| :----------------------------------------------------------------------------------| :----------------------------------|
-|**Markup & style** | `HTML5` /`CSS3`   |  웹 표준과 접근성을 준수한 시멘틱 마크업 설계, <br> CSS(Flexbox ,Grid 등) 기반 반응형 레이아웃 및 모듈화된 스타일링 가능 |  ★★★☆☆ |
-|**Frontend Core**| `JavaScript (ES6+)` |  순수 JS 기반 동적 DOM 조작 / 이벤트 처리 , `fetch`/`async`/`await` 활용 <br> AJAX 통신 및 Json 데이터처리, 재사용성 고려 코드 작성 지향. |  ★★☆☆☆ |
-|                 | `jQurey` | jQurey를 이용한 다양한 동적 UI 기능 및 이벤트 구현 경험. | ★☆☆☆☆ |
-|**Data & API**| `AJAX` / `JSON` | `fetch` API 등을 활용한 비동기 데이터 요청 및 JSON 파싱 / 처리 경험. |★★☆☆☆ |
-|**Baas**| `Supabase` | 실시간 DB 연동 (CRUD), 스토리지 (이미지 업로드) 등 Supabase 핵심 기능 활용 경험. |★☆☆☆☆ |
+|**Markup & style** | `HTML5` /`CSS3`   |  웹 표준과 접근성을 준수한 시멘틱 마크업 설계, <br> CSS(Flexbox ,Grid 등) 기반 반응형 레이아웃 및 모듈화된 스타일링 가능 |  ★★★★☆ |
+|**Frontend Core**| `JavaScript (ES6+)` |  순수 JS 기반 동적 DOM 조작 / 이벤트 처리 , `fetch`/`async`/`await` 활용 <br> AJAX 통신 및 Json 데이터처리, 재사용성 고려 코드 작성 지향. |  ★★★☆☆ |
+|                 | `jQurey` | jQurey를 이용한 다양한 동적 UI 기능 및 이벤트 구현 경험. | ★★☆☆☆ |
+|**Data & API**| `AJAX` / `JSON` | `fetch` API 등을 활용한 비동기 데이터 요청 및 JSON 파싱 / 처리 경험. |★★★☆☆ |
+|**Baas**| `Supabase` | 실시간 DB 연동 (CRUD), 스토리지 (이미지 업로드) 등 Supabase 핵심 기능 활용 경험. |★★☆☆☆ |
+|**Framework**|`React` | SPA 구조 , 컴포넌트 기반 UI 구축 ,기본 상태관리 (useState/useEffect) , API 연동(axios) 경험 (ERP 프로젝트) |★★☆☆☆|
+|**Backend**| `Java` , `Spring Boot`| Java , Spring Boot 기반 REST API 설계 및 CRUD 구현 경험, Repository 패턴등 백엔드 아키텍처 흐름을 이해 하고 있습니다. |★★★☆☆|
+|**Database**| `MySQL` , `Oracle` | 기본 CRUD 쿼리 작성 및 DB 설계 경험 (MyBatis , JPA 연동 경험 포함) |★★★☆☆| 
+|**Versiion Control**| `Git` / `GitHub` | SourceTree 활용 , 기본적인 버전 관리 및 팀 협업(브렌치, 병합) 경험. |★★★☆☆|
+|**Tools**| `Figma` , `Postman` , `Photoshop` | Figma 시안 해석/제작 , Postman API 테스트, Phostoshop 기본 이미지 편집 가능 |★★★★☆|
+
 
 
 
