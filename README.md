@@ -44,10 +44,8 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
-- **LINK**
--  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/KPopDemonHunters)
--  [![케데헌 보러가기](https://img.shields.io/badge/-%EC%BC%80%EB%8D%B0%ED%97%8C%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-2C003E?style=for-the-badge)](https://rlaskarb.github.io/KPopDemonHunters/)
- 
+- **K-Pop Demon Hunters LINKS:** 
+ &nbsp; [![케데헌 보러가기](https://img.shields.io/badge/-%EC%BC%80%EB%8D%B0%ED%97%8C%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-2C003E?style=for-the-badge)](https://rlaskarb20.mycafe24.com/media/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/KPopDemonHunters)
 
 <br>
 
