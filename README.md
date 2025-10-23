@@ -30,110 +30,57 @@
 
 <br/><hr/><br/>
 
-# 📂  프로젝트
-<br> <br>
+# 📂  프로젝트 (Projects)
+<br><br>
 
-# 7-ELEVn 웹사이트 UX 개선 리뉴얼(PC) (2025.06 ~ 2025.07) 
-## 📌 개요
-웹 표준과 접근성을 완벽히 준수한 퍼블리싱 기본 위에, BaaS(Supa
-base) 기반 실시간 CRUD와 다중 JSON 데이터 처리(AJAX) 등 프론
-트엔드 기술을 주도적으로 학습하고 적용하여 동적인 기능과 완성도
-를 더했습니다
+## 1. K-Pop Demon Hunters (Responsive Project)
 
-## 🛠 사용 기술
-- 프론트엔드 : Js , jQurey , HTML5 , CSS3
-- Baas : Supabase 
+- 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. 144개+ 미디어에도 AVIF 변환, Intersection Observer 최적화로 Lighthouse 98점 확보 및 직접 구현 CSS 효과 적용.
 
-# 🍺 맥주 생산 ERP 시스템 (2025.02 ~ 2025.03)
-## 📌 개요
-맥주 제조 공정의 생산부터 출하까지 전 과정을 직관적으로 관리할 수 있도록 설계한 ERP 시스템입니다.  
-생산계획 → 작업지시 → 공정 실행 → 실적 관리로 이어지는 흐름을 구현했으며,  
-현장 중심의 생산 관리 UX에 중점을 두었습니다.
+- 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
-## 🛠 사용 기술
-- 백엔드: Java, Spring Boot, Spring Data JPA
-- 프론트엔드: React,Js, Redux, React Router, HTML5 ,CSS3
-- 데이터베이스: Oracle
-- API: REST API
+- Links: <a href="https://rlaskarb20.mycafe24.com/mobile/" target="_blank"> 케데헌 보러가기 </a>  | <a href="https://github.com/rlaskarb/KPopDemonHunters" target="_blank"> 케데헌 깃허브로 이동 </a>
 
-## ⚙️ 직접 구현한 핵심 기능
-- 작업지시 기반 공정 흐름 자동화  
-- 공정별 원재료·수율 자동 연산 및 조건별 전환 처리  
-- LOT 단위 생산 기록 및 PDF 작업지시 연동
+<br>
 
-[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
+## 2. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
 
-<hr/> <br/>
+- 소개: Flexbox/Grid 기반 모바일 최적화 레이아웃. BaaS 연동 등 PC 버전 동적 기능을 모바일 환경에 적용하고 Swiper.js로 터치 UX 강화.
 
+- 기술: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase), Swiper.js.
 
-# ⛱️ 보험사 그룹웨어 시스템 (2024.11 ~ 2025.01)
+- Links: <a href="https://rlaskarb20.mycafe24.com/media/" target="_blank">🚀 7-ELEVEn 모바일 보러가기 </a>  | <a href="https://github.com/rlaskarb/7-eleven_mobile" target="_blank"> 🐙 7-ELEVEn 모바일 깃허브로 이동 </a>
 
-## 📌 개요
-보험사의 내부 업무 효율화를 위한 그룹웨어 시스템으로,  
-인사관리, 전자결재, 계약관리 등 핵심 기능을 구현하였습니다.
+<br>
 
-## 🛠 사용 기술
-- 백엔드: Java, Spring Boot
-- 프론트엔드:Js, HTML5, CSS3, Thymeleaf, Bootstrap
-- 데이터베이스: MySQL
-- API: REST API
+## 3. 7-Eleven 기업 웹 리뉴얼 (PC Project)
 
-## ⚙️ 직접 구현한 핵심 기능
-- 고객/상품/계약 등록
-- 실적 분석 대시보드
-- 만기 고객 자동 조회 및 알림
-  
-[👉 GitHub 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
+- 소개: 웹 표준/접근성 기반 퍼블리싱 위에 BaaS(Supabase) 실시간 CRUD, 다중 JSON 처리(AJAX) 등 프론트엔드 기술을 주도적으로 적용.
 
-<hr/> <br/>
+- 기술: HTML5, CSS3, JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase).
 
-##
+- Links: <a href="https://rlaskarb20.mycafe24.com/" target="_blank">🚀 7-ELEVEn 보러가기 </a>  | <a href="https://github.com/rlaskarb/7-ELEVEn" target="_blank"> 🐙 7-ELEVEn 깃허브로 이동 </a>
 
-# 📸 프로젝트 대표 이미지
+<br>
 
+## 4. 맥주 생산 ERP 시스템 (React Project)
 
-#### LYNK_LIFE | 보험회사 그룹웨어 | 계약등록 ![계약등록](https://github.com/user-attachments/assets/c66060b3-a93c-47b9-8061-1d6b2e305aa6)
-<details>
-<summary>보험 계약을 등록 및 실적현황판 기능입니다</summary>
+- 소개: React 기반 맥주 제조 공정(생산계획~출하) 관리 ERP 프론트엔드 개발. LOT 기반 10단계 공정 데이터 연동 및 상태 시각화 구현.
 
-  <br/>
-  
-📄 보험 계약을 등록하는 기능입니다.  
-사전에 등록된 **상품 정보, 고객 정보, 설계사 정보**를 불러와  
-작업자가 직접 입력하는 실수를 최소화하고,  
-등록된 계약은 **홈 화면 실적 현황판에 실시간으로 반영**되어  
-**계약 금액과 계약 건수**를 바로 확인할 수 있습니다.
+- 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: 백엔드: Java, Spring Boot, JPA, ORACLE).
 
-</details>
-
-[👉 GitHub 바로 가기](https://github.com/rlaskarb/LYNK_LIFE)
-
-<br/><hr/>
-
-#### QualityCore | 맥주생산 ERP | 끓임 공정 ![끓임공정gif](https://github.com/user-attachments/assets/cb385815-b42e-4291-8ce5-40462a2a9556)
-<details>
-<summary>홉 투입 타이밍 및 온도 변화 시각화를 위한 타이머 기반 공정 흐름 입니다.</summary>
-
-  <br/> 
-
-🔥 끓임공정은 여과된 맥즙에 홉을 투입한 후, 고온에서 끓이는 단계입니다.
-
-공정은 설정된 온도에 도달하면 모달창이 표시되며, 사용자가 확인하면 끓임공정이 시작됩니다.<br/>
-온도 변화는 타이머 기반 구조로 설계되어, 끓임 설비의 온도 변화를 실시간으로 시각화할 수 있도록 구성했습니다.<br/>
-
-초기 워트량은 **여과공정에서 최종 회수된 워트량을 기준** 으로 자동 설정되며,<br/>
-홉 투입 정보는 **작업지시서에 등록된 자재 정보를 기반** 으로 자동 불러옵니다.<br/>
-첫 번째와 두 번째 홉의 투입량이 자동으로 입력되어, 작업자는 이를  확인할 수 있습니다.<br/>
-
-끓임 종료 시, **끓임 손실량(초기 워트량의 5%)이 자동 계산되어 표시되며** ,<br/>
-최종 끓임 후 워트량은 초기 워트량 - 끓임 손실량으로 실시간 산출되어 업데이트됩니다.<br/>
-
-이 과정을 통해 작업자는 홉 투입 시점과 수율 변화 상황을 직관적으로 파악할 수 있습니다.
-
-</details>
-
-[👉 GitHub 바로 가기 ](https://github.com/rlaskarb/QualityCore)  
-
+- Links: <a href="https://github.com/rlaskarb/QualityCore" target="_blank"> 🐙 브로이 하우스 깃허브로 이동 </a>
 <br/>
+
+## 5.보험사 그룹웨어 시스템 (Spring Boot Project)
+
+- 소개: 보험사 업무 효율화를 위한 그룹웨어. DB/계약 관리 파트 담당하여 고객/계약/상품 CRUD, 실시간 실적 대시보드, 만기 고객 필터링 등 구현.
+
+- 기술: HTML5, CSS3, JavaScript, Bootstrap, Chart.js, AJAX, JSON, REST API (백엔드: Java, Spring Boot, MyBatis, MySQL).
+
+- Links: <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank"> 🐙 LYNK 보험사 깃허브로 이동 </a>
+  
+<br/>
+
 
 
