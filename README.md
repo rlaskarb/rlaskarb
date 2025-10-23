@@ -1,4 +1,4 @@
-# 견고한 UI로 사용자 경험을 설계하는 개발자
+# 견고한 UI로 사용자 경험을 설계하는 개발자   
 
 안녕하세요! UI/UX 구현에 집중하는 개발자 김남규입니다.
 
@@ -6,7 +6,7 @@
 
 JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 더해, 
 
-이 두 역량을 균형 있게 활용하며 매일 성장하고 있습니다.
+이 두 역량을 균형 있게 활용하며 매일 성장하고 있습니다.  
 
 <hr><br>
 
@@ -35,7 +35,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 <br/><hr/><br/>
 
-# 📂  프로젝트 (Projects)
+# 📂  프로젝트 (Projects) &nbsp; &nbsp; [![포트폴리오 보러가기](https://img.shields.io/badge/-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-343a40?style=for-the-badge)](https://rlaskarb20.mycafe24.com/profile/)
 <br><br>
 
 ## 1. K-Pop Demon Hunters (Responsive Project)
@@ -44,7 +44,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
-- **K-Pop Demon Hunters LINKS:** 
+- **LINKS:** 
  &nbsp; [![케데헌 보러가기](https://img.shields.io/badge/-%EC%BC%80%EB%8D%B0%ED%97%8C%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-2C003E?style=for-the-badge)](https://rlaskarb20.mycafe24.com/media/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/KPopDemonHunters)
 
 <br>
@@ -55,8 +55,8 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase), Swiper.js.
 
-- Links: <a href="https://rlaskarb20.mycafe24.com/media/" target="_blank">🚀 7-ELEVEn 모바일 보러가기 </a>  | <a href="https://github.com/rlaskarb/7-eleven_mobile" target="_blank"> 🐙 7-ELEVEn 모바일 깃허브로 이동 </a>
-
+- **LINKS:** 
+ &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
 <br>
 
 ## 3. 7-Eleven 기업 웹 리뉴얼 (PC Project)
@@ -65,8 +65,8 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: HTML5, CSS3, JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase).
 
-- Links: <a href="https://rlaskarb20.mycafe24.com/" target="_blank">🚀 7-ELEVEn 보러가기 </a>  | <a href="https://github.com/rlaskarb/7-ELEVEn" target="_blank"> 🐙 7-ELEVEn 깃허브로 이동 </a>
-
+- **LINKS:** 
+ &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
 <br>
 
 ## 4. 맥주 생산 ERP 시스템 (React Project)
@@ -75,8 +75,9 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: Java, Spring Boot, JPA, ORACLE).
 
-- Links: <a href="https://github.com/rlaskarb/QualityCore" target="_blank"> 🐙 브로이 하우스 깃허브로 이동 </a>
-<br/>
+- **LINK:** 
+ &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/QualityCore)
+<br>
 
 ## 5.보험사 그룹웨어 시스템 (Spring Boot Project)
 
@@ -84,7 +85,8 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 - 기술: HTML5, CSS3, JavaScript, Bootstrap, Chart.js, AJAX, JSON, REST API (백엔드: Java, Spring Boot, MyBatis, MySQL).
 
-- Links: <a href="https://github.com/rlaskarb/LYNK_LIFE" target="_blank"> 🐙 LYNK 보험사 깃허브로 이동 </a>
+- **LINK:** 
+ &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/LYNK_LIFE)
   
 <br/>
 
