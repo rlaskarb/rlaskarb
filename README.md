@@ -56,7 +56,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 - 기술: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase), Swiper.js.
 
 - **LINKS:** 
- &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
+ &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/)&nbsp;`(PC에서는 F12 → 모바일 화면으로 보시길 권장합니다)` &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
 <br>
 
 ## 3. 7-Eleven 기업 웹 리뉴얼 (PC Project)
