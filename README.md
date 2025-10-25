@@ -8,7 +8,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 이 두 역량을 균형 있게 활용하며 매일 성장하고 있습니다.  
 
-<br/><hr/><br/>
+<hr/>
 
 # ⚒️ 기술 역량 (Skills & Proficiency)
 
@@ -25,7 +25,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 |**Versiion Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | SourceTree 활용 , 기본적인 버전 관리 및 팀 협업(브렌치, 병합) 경험. |★★★☆☆|
 |**Tools**| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 시안 해석/제작 , Postman API 테스트, Phostoshop 기본 이미지 편집 가능 |★★★★☆|
 
-<br/><hr/><br/>
+<hr/>
 
 # ✨ GitHub 통계 (GitHub Stats)
 
@@ -33,7 +33,7 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaskarb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg) 
 
-<br/><hr/><br/>
+<hr/><br>
 
 # 📂  프로젝트 (Projects) &nbsp; &nbsp; [![포트폴리오 보러가기](https://img.shields.io/badge/-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-343a40?style=for-the-badge)](https://rlaskarb20.mycafe24.com/profile/)
 <br>
