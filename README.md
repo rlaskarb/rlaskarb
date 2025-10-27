@@ -40,7 +40,9 @@ JavaScript로 동적인 인터랙션을 구현하는 프론트엔드 역량을 �
 
 ## 1. K-Pop Demon Hunters (Responsive Project)
 
-- 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. 144개+ 미디어를 AVIF 변환, Intersection Observer 최적화로 Lighthouse 98점 달성 및 직접 구현 CSS 효과 적용.
+- 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. <br>
+  144개 이미지,GIF파일을 AVIF 변환 및 WEBM 변환 , Intersection Observer API 최적화로 Lighthouse 97점 달성 <br>
+  및 애니매이션 라이브러리 최소화 사용 및 직접 CSS 효과사용 하여 구현 하였습니다.
 
 - 기술: HTML5, CSS3 (Grid, Media Queries, Animation), 순수 JavaScript (ES6+), JSON, Swiper.js, Lighthouse.
 
