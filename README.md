@@ -37,7 +37,18 @@
 # 📂  프로젝트 (Projects) &nbsp; &nbsp; [![포트폴리오 보러가기](https://img.shields.io/badge/-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-343a40?style=for-the-badge)](https://rlaskarb20.mycafe24.com/profile/)
 <br>
 
-## 1. K-Pop Demon Hunters (Responsive Project)
+## 1. 스마트 로또 생성기 (Data-driven Web App)
+
+- 소개: 과거 당첨 통계 분석 알고리즘 기반 실시간 번호 추천 서비스 개발. PHP 프록시를 활용한 CORS 보안 이슈 해결 및 PWA/구글 SEO 최적화로 실제 서비스 배포 및 운영 프로세스 경험.
+
+- 기술: JavaScript (ES6+), HTML5, CSS3, PHP (CORS 해결용), Google Search Console, PWA.
+  
+- **LINKS:** 
+&nbsp; [![로또 번호생성 바로가기](https://img.shields.io/badge/-%EB%A1%9C%EB%98%90%20%EB%B2%88%ED%98%B8%EC%83%9D%EC%84%B1%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-FFD700?style=for-the-badge)](https://rlaskarb20.mycafe24.com/lotto/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/lottogame)
+
+<br>
+
+## 2. K-Pop Demon Hunters (Responsive Project)
 
 - 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. <br>
   144개 이미지,GIF파일을 AVIF 변환 및 WEBM 변환 , Intersection Observer API 최적화로 Lighthouse 97점 달성 <br>
@@ -50,7 +61,7 @@
 
 <br>
 
-## 2. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
+## 3. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
 
 - 소개: Flexbox/Grid 기반 모바일 최적화 레이아웃. BaaS 연동 등 PC 버전 동적 기능을 모바일 환경에 적용하고 Swiper.js로 터치 UX 강화.
 
@@ -60,7 +71,7 @@
  &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/)&nbsp;`(PC에서는 F12 → 모바일 화면으로 보시길 권장합니다)` &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
 <br>
 
-## 3. 7-Eleven 기업 웹 리뉴얼 (PC Project)
+## 4. 7-Eleven 기업 웹 리뉴얼 (PC Project)
 
 - 소개: 웹 표준/접근성 기반 퍼블리싱 위에 BaaS(Supabase) 실시간 CRUD, 다중 JSON 처리(AJAX) 등 프론트엔드 기술을 주도적으로 적용.
 
@@ -70,7 +81,7 @@
  &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
 <br>
 
-## 4. 맥주 생산 ERP 시스템 (React Project)
+## 5. 맥주 생산 ERP 시스템 (React Project)
 
 - 소개: React 기반 맥주 제조 공정(생산계획~출하) 관리 ERP 프론트엔드 개발. LOT 기반 10단계 공정 데이터 연동 및 상태 시각화 구현.
 
@@ -80,7 +91,7 @@
  &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/QualityCore)
 <br>
 
-## 5.보험사 그룹웨어 시스템 (Spring Boot Project)
+## 6.보험사 그룹웨어 시스템 (Spring Boot Project)
 
 - 소개: 보험사 업무 효율화를 위한 그룹웨어. DB/계약 관리 파트 담당하여 고객/계약/상품 CRUD, 실시간 실적 대시보드, 만기 고객 필터링 등 구현.
 
