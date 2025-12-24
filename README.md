@@ -44,7 +44,7 @@
 - 기술: JavaScript (ES6+), HTML5, CSS3, PHP (CORS 해결용), Google Search Console, PWA.
   
 - **LINKS:** 
-&nbsp; [![로또 번호생성 바로가기](https://img.shields.io/badge/-%EB%A1%9C%EB%98%90%20%EB%B2%88%ED%98%B8%EC%83%9D%EC%84%B1%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-FFD700?style=for-the-badge)](https://rlaskarb20.mycafe24.com/lotto/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/lottogame)
+&nbsp; [![로또 번호생성 바로가기](https://img.shields.io/badge/-%EB%A1%9C%EB%98%90%20%EB%B2%88%ED%98%B8%EC%83%9D%EC%84%B1%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-FFD700?style=for-the-badge)](https://barolotto.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/lottogame)
 
 <br>
 
