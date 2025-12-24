@@ -78,7 +78,7 @@
 - 기술: HTML5, CSS3, JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase).
 
 - **LINKS:** 
- &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
+ &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/pc/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
 <br>
 
 ## 5. 맥주 생산 ERP 시스템 (React Project)
