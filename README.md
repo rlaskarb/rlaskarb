@@ -37,9 +37,9 @@
 # 📂  프로젝트 (Projects) &nbsp; &nbsp; [![포트폴리오 보러가기](https://img.shields.io/badge/-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-343a40?style=for-the-badge)](https://rlaskarb20.mycafe24.com/profile/)
 <br>
 
-## 1. 스마트 로또 생성기 (Data-driven Web App)
+## 1. 로또 데이터 분석(Lotto Data Analysis)
 
-- 소개: 과거 당첨 통계 분석 알고리즘 기반 실시간 번호 추천 서비스 개발. PHP 프록시를 활용한 CORS 보안 이슈 해결 및 PWA/구글 SEO 최적화로 실제 서비스 배포 및 운영 프로세스 경험.
+- 소개: 단순한 랜덤 추출이 아닌, **데이터 기반의 논리적 근거**를 가진 번호 생성 서비스입니다. 동행복권 API를 통해 실시간으로 데이터를 동기화하며, 사용자 친화적인 UI/UX와 PWA를 도입하여 앱 수준의 사용성을 제공합니다.
 
 - 기술: JavaScript (ES6+), HTML5, CSS3, PHP (CORS 해결용), Google Search Console, PWA.
   
