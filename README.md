@@ -1,29 +1,27 @@
-# 견고한 UI 구현을 지향하는 개발자
+# 👨‍💻 소통과 내실을 겸비한 프론트엔드 개발자, 김남규입니다.
 
-안녕하세요 웹 표준과 접근성을 준수하는 UI 구현에 집중하는 개발자 김남규입니다.
+> **"화려한 기술 이전에 웹의 본질을 먼저 고민합니다."**
 
-웹 개발의 전반적인 흐름을 이해하기 위해 8개월간의 개발 교육을 이수했으며, <br>
-이후 프론트엔드 분야의 전문성을 기르기 위해 6개월간 UI/UX 웹 퍼블리셔 과정을 수료했습니다.
+**순수 JavaScript(Vanilla JS)** 로 서비스를 직접 구축하며 **배포·보안(SSL)·검색 최적화(SEO)** 등 실무 운영의 전 과정을 경험했습니.
 
-꼼꼼한 마크업과 JavaScript를 활용한 동적인 웹 구현 역량을 키우고 있습니다.
+10년의 사회생활로 다져진 **유연한 소통 능력**을 바탕으로, 기획 의도를 정확히 파악하고 팀의 목표를 빈틈없이 실현하는 든든한 동료가 되겠습니다.
 
 <hr/>
 
 # ⚒️ 기술 역량 (Skills & Proficiency)
 
-|기술 분류 | 기술 스택| 설명 & 경험| 숙련도 <br>(자기평가)|
-| :-----------------------------| :---------------------------| :-------------------------------------------------------------------------| :----------------|
-|**Markup & style** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white&v=2) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |  웹 표준과 접근성을 준수한 시맨틱 마크업 설계. 순수CSS(Flexbox ,Grid 등) 기반 반응형 레이아웃 구현에 능숙합니다 또한, Sass를 사용해 유지보수성이 높은 CSS 아키텍처 설계가 가능합니다. 이를 바탕으로 Bootstrap을 커스터마이징하거나 Tailwind CSS를 이용한 유틸리티-퍼스트 기반의 커스텀 UI 제작 경험을 보유하고 있습니다. |  ★★★★☆ |
-|**Frontend Core**| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  순수 JS 기반 동적 DOM 조작 / 이벤트 처리 , `fetch`/`async`/`await` 활용 AJAX 통신 및 Json 데이터처리, 재사용성 고려 코드 작성 지향. |  ★★★☆☆ |
-|                 | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | jQurey를 이용한 다양한 동적 UI 기능 및 이벤트 구현 경험. | ★★☆☆☆ |
-|**Data & API**| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | `fetch` API 등을 활용한 비동기 데이터 요청 및 JSON 파싱 / 처리 경험. |★★★☆☆ |
-|**Baas**| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | 실시간 DB 연동 (CRUD), 스토리지 (이미지 업로드) 등 <br> Supabase 핵심 기능 활용 경험. |★★☆☆☆ |
-|**Framework**|![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | SPA 구조, 컴포넌트 기반 UI 구축, 기본 상태관리 (useState/useEffect), <br> API 연동(axios) 경험 (ERP 프로젝트) |★★☆☆☆|
-|**Backend**|![Java](https://img.shields.io/badge/Java-f5f5f5?style=for-the-badge&logo=java&logoColor=red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| Java , Spring Boot 기반 REST API 설계 및 CRUD 구현 경험, Repository 패턴등 백엔드 아키텍처 흐름을 이해 하고 있습니다. |★★☆☆☆|
-|**Database**| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | 기본 CRUD 쿼리 작성 및 DB 설계 경험 (MyBatis , JPA 연동 경험 포함) |★★★☆☆| 
-|**Versiion Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | SourceTree 활용 , 기본적인 버전 관리 및 팀 협업(브렌치, 병합) 경험. |★★★☆☆|
-|**Tools**| ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 시안 해석/제작 ,<br> Postman API 테스트, Phostoshop 기본 이미지 편집 가능 |★★★★☆|
-
+| 기술 분류 | 기술 스택 | 설명 & 경험 | 숙련도<br>(자기평가) |
+| :--- | :--- | :--- | :--- |
+| **Markup & Style** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white&v=2) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | 웹 표준/접근성을 준수한 시맨틱 마크업 및 Flexbox/Grid 기반 반응형 레이아웃 구현 능숙. <br> Sass 및 Tailwind CSS를 활용한 유지보수성 높은 스타일링 아키텍처 설계 가능. | ★★★★☆ |
+| **Frontend Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **순수 JS 기반 동적 DOM 제어**, 라이브러리 없는 SPA 로직 구현 경험. <br> `fetch`/`async`/`await` 활용 비동기 통신 및 ES6+ 문법 활용 능숙. | ★★★☆☆ |
+| | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | jQuery를 이용한 레거시 코드 분석 및 다양한 동적 UI/이벤트 구현 가능. | ★★☆☆☆ |
+| **Data & API** | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | 대용량 데이터의 **JSON 구조 최적화** 및 파싱 처리, 비동기 데이터 바인딩 경험. | ★★★☆☆ |
+| **BaaS** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | Serverless 환경에서의 DB 설계, 실시간 CRUD 연동 및 스토리지 관리 경험. | ★★☆☆☆ |
+| **Framework** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | 컴포넌트 기반 UI 구축 및 Hooks(useState/useEffect) 활용 상태 관리, <br> Axios 기반 API 연동 경험 (ERP 프로젝트). | ★★☆☆☆ |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-f5f5f5?style=for-the-badge&logo=java&logoColor=red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Java/Spring Boot 기반 REST API 흐름 이해. <br> 백엔드 개발자와의 원활한 협업을 위한 기본 아키텍처(MVC, Repository) 지식 보유. | ★★☆☆☆ |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | 기본적인 CRUD 쿼리 작성 및 DB 테이블 설계 흐름 이해. | ★★★☆☆ |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Git Flow 이해, SourceTree 및 CLI를 활용한 브랜치 전략/협업(Merge/PR) 경험. | ★★★☆☆ |
+| **Tools** | ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 디자인 시안의 정교한 퍼블리싱 구현, <br> Postman API 테스트, Photoshop 기본 이미지 편집 가능. | ★★★★☆ |
 <hr/>
 
 # ✨ GitHub 통계 (GitHub Stats)
@@ -39,9 +37,9 @@
 
 ## 1. 로또 데이터 분석(Lotto Data Analysis)
 
-- 소개: 단순한 랜덤 추출이 아닌, **데이터 기반의 논리적 근거**를 가진 번호 생성 서비스입니다. 동행복권 API를 통해 실시간으로 데이터를 동기화하며, 사용자 친화적인 UI/UX와 PWA를 도입하여 앱 수준의 사용성을 제공합니다.
+- 소개: 단순한 랜덤 추출이 아닌, **데이터 기반의 논리적 근거**를 가진 번호 생성 서비스입니다. 사용자 친화적인 UI/UX와 PWA를 도입하여 앱 수준의 사용성을 제공합니다.
 
-- 기술: JavaScript (ES6+), HTML5, CSS3, PHP (CORS 해결용), Google Search Console, PWA.
+- 기술: JavaScript (ES6+), HTML5, CSS3, Google Search Console, PWA.
   
 - **LINKS:** 
 &nbsp; [![로또 번호생성 바로가기](https://img.shields.io/badge/-%EB%A1%9C%EB%98%90%20%EB%B2%88%ED%98%B8%EC%83%9D%EC%84%B1%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-FFD700?style=for-the-badge)](https://barolotto.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/lottogame)
