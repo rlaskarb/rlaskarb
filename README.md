@@ -24,14 +24,6 @@
 | **Tools** | ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 디자인 시안의 정교한 퍼블리싱 구현, <br> Postman API 테스트, Photoshop 기본 이미지 편집 가능. | ★★★★☆ |
 <hr/>
 
-# ✨ GitHub 통계 (GitHub Stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaskarb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaskarb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![snake animation](https://github.com/rlaskarb/rlaskarb/blob/output/github-contribution-grid-snake.svg) 
-
-<hr/><br>
-
 # 📂  프로젝트 (Projects) &nbsp; &nbsp; [![포트폴리오 보러가기](https://img.shields.io/badge/-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-343a40?style=for-the-badge)](https://rlaskarb20.mycafe24.com/profile/)
 <br>
 
