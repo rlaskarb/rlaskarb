@@ -32,7 +32,7 @@
 
 > **"코드만으로는 보여드릴 수 없는, 실제 구동되는 서비스와 기술 상세를 웹으로 정리했습니다."**
 
-아래 버튼을 클릭하시면, 제가 직접 배포하고 운영 중인 포트폴리오 사이트로 이동합니다.
+아래 버튼을 클릭하시면 포트폴리오 사이트로 이동합니다.
 
 [![Portfolio Link](https://img.shields.io/badge/Portfolio_Web-포트폴리오_보러가기-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rlaskarb20.mycafe24.com/profile)
 
