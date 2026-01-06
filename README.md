@@ -38,7 +38,17 @@
 
 <br>
 
-## 1. 바로쓰는 로또 생성기(Lotto Data Analysis)
+## 1. 맥주 생산 ERP 시스템 (React Project)
+
+- 소개: React 기반 맥주 제조 공정(생산계획~출하) 관리 ERP 프론트엔드 개발. LOT 기반 10단계 공정 데이터 연동 및 상태 시각화 구현.
+
+- 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: Java, Spring Boot, JPA, ORACLE).
+
+- **LINK:** 
+ &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/QualityCore)
+<br>
+
+## 2. 바로쓰는 로또 생성기(Lotto Data Analysis)
 
 - 소개: 단순한 랜덤 추출이 아닌, **데이터 기반의 논리적 근거**를 가진 번호 생성 서비스입니다. 사용자 친화적인 UI/UX와 PWA를 도입하여 앱 수준의 사용성을 제공합니다.
 
@@ -49,7 +59,7 @@
 
 <br>
 
-## 2. K-Pop Demon Hunters (Responsive Project)
+## 3. K-Pop Demon Hunters (Responsive Project)
 
 - 소개: 순수 JavaScript(SPA)와 JSON 기반 반응형 웹사이트. <br>
   144개 이미지,GIF파일을 AVIF 변환 및 WEBM 변환 , Intersection Observer API 최적화로 Lighthouse 97점 달성 <br>
@@ -62,7 +72,7 @@
 
 <br>
 
-## 3. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
+## 4. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
 
 - 소개: Flexbox/Grid 기반 모바일 최적화 레이아웃. BaaS 연동 등 PC 버전 동적 기능을 모바일 환경에 적용하고 Swiper.js로 터치 UX 강화.
 
@@ -72,7 +82,7 @@
  &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/)&nbsp;`(PC에서는 F12 → 모바일 화면으로 보시길 권장합니다)` &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
 <br>
 
-## 4. 7-Eleven 기업 웹 리뉴얼 (PC Project)
+## 5. 7-Eleven 기업 웹 리뉴얼 (PC Project)
 
 - 소개: 웹 표준/접근성 기반 퍼블리싱 위에 BaaS(Supabase) 실시간 CRUD, 다중 JSON 처리(AJAX) 등 프론트엔드 기술을 주도적으로 적용.
 
@@ -82,15 +92,7 @@
  &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/pc/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
 <br>
 
-## 5. 맥주 생산 ERP 시스템 (React Project)
 
-- 소개: React 기반 맥주 제조 공정(생산계획~출하) 관리 ERP 프론트엔드 개발. LOT 기반 10단계 공정 데이터 연동 및 상태 시각화 구현.
-
-- 기술: React, JavaScript, HTML5, CSS3, React Router, axios, REST API (백엔드: Java, Spring Boot, JPA, ORACLE).
-
-- **LINK:** 
- &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/QualityCore)
-<br>
 
 ## 6.보험사 그룹웨어 시스템 (Spring Boot Project)
 
