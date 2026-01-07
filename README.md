@@ -12,8 +12,6 @@
 
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 
-> 리액트와 자바스크립트로 서비스를 만들어가는 프론트엔드 개발 공부중입니다.
-
 <hr/>
 
 # ⚒️ 기술 역량 (Skills & Proficiency)
