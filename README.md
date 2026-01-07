@@ -3,7 +3,9 @@
 ![INFJ](https://img.shields.io/badge/MBTI-INFJ-blueviolet?style=flat-square)
 ![Quality Control](https://img.shields.io/badge/Process%20%26%20Measurement-5Yrs-555555?style=flat-square&logo=precision-manufacturing&logoColor=white)
 ![Sales Management](https://img.shields.io/badge/Sales%20%26%20Debt-5Yrs-2E7D32?style=flat-square&logo=handshake&logoColor=white)
-![Learning Path](https://img.shields.io/badge/Frontend%20Learning-1.5Yrs%20ing-0288D1?style=flat-square&logo=react&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-8%20Months-0052CC?style=flat-square&logo=code&logoColor=white)
+![UI Developer](https://img.shields.io/badge/UI%20Developer-6%20Months-D81B60?style=flat-square&logo=css3&logoColor=white)
+![Learning while Working](https://img.shields.io/badge/Learning%20while%20Working-Frontend%20(1mo)-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
 ![Interests](https://img.shields.io/badge/Interests-WebXR%20%7C%20React%20%7C%20VanillaJS-FF9800?style=flat-square&logo=codeforces&logoColor=white)
