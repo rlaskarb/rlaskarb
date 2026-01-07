@@ -28,6 +28,7 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | 기본적인 CRUD 쿼리 작성 및 DB 테이블 설계 흐름 이해. | ★★★☆☆ |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Git Flow 이해, SourceTree 및 CLI를 활용한 브랜치 전략/협업(Merge/PR) 경험. | ★★★☆☆ |
 | **Tools** | ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 디자인 시안의 정교한 퍼블리싱 구현, <br> Postman API 테스트, Photoshop 기본 이미지 편집 가능. | ★★★★☆ |
+
 <hr/>
 
 # 📂  프로젝트 (Projects) &nbsp; &nbsp;
@@ -52,6 +53,7 @@
 
 - **LINK:** 
  &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/QualityCore)
+
 <br>
 
 ## 2. 바로쓰는 로또 생성기(Lotto Data Analysis)
@@ -78,17 +80,7 @@
 
 <br>
 
-## 4. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
-
-- 소개: Flexbox/Grid 기반 모바일 최적화 레이아웃. BaaS 연동 등 PC 버전 동적 기능을 모바일 환경에 적용하고 Swiper.js로 터치 UX 강화.
-
-- 기술: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase), Swiper.js.
-
-- **LINKS:** 
- &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/)&nbsp;`(PC에서는 F12 → 모바일 화면으로 보시길 권장합니다)` &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
-<br>
-
-## 5. 7-Eleven 기업 웹 리뉴얼 (PC Project)
+## 4. 7-Eleven 기업 웹 리뉴얼 (PC Project)
 
 - 소개: 웹 표준/접근성 기반 퍼블리싱 위에 BaaS(Supabase) 실시간 CRUD, 다중 JSON 처리(AJAX) 등 프론트엔드 기술을 주도적으로 적용.
 
@@ -96,9 +88,19 @@
 
 - **LINKS:** 
  &nbsp; [![7-Eleven 보러가기](https://img.shields.io/badge/-7--Eleven%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/pc/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-ELEVEn)
+
 <br>
 
+## 5. 7-Eleven 모바일 웹 리뉴얼 (Mobile Project)
 
+- 소개: Flexbox/Grid 기반 모바일 최적화 레이아웃. BaaS 연동 등 PC 버전 동적 기능을 모바일 환경에 적용하고 Swiper.js로 터치 UX 강화.
+
+- 기술: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), jQuery, AJAX, JSON, BaaS (Supabase), Swiper.js.
+
+- **LINKS:** 
+ &nbsp; [![모바일 보러가기](https://img.shields.io/badge/-%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-D92629?style=for-the-badge)](https://rlaskarb20.mycafe24.com/mobile/)&nbsp;`(PC에서는 F12 → 모바일 화면으로 보시길 권장합니다)` &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rlaskarb/7-eleven_mobile)
+
+<br>
 
 ## 6.보험사 그룹웨어 시스템 (Spring Boot Project)
 
