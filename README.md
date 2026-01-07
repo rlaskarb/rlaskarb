@@ -1,10 +1,16 @@
-# 👨‍💻 10년 사회 경험을 IT 기술로 녹일 수 있는 김남규입니다.
+# 👋 Hello, I'm Nam-gyu Kim
 
- **자동차 부품 품질 관리 5년, 영업 및 채권 관리 5년. 현장에서 직접 발로 뛰며 '데이터의 정확성'을 몸소 익혔습니다.**
+![INFJ](https://img.shields.io/badge/MBTI-INFJ-blueviolet?style=flat-square)
+![Quality Control](https://img.shields.io/badge/Process%20%26%20Measurement-5Yrs-555555?style=flat-square&logo=precision-manufacturing&logoColor=white)
+![Sales Management](https://img.shields.io/badge/Sales%20%26%20Debt-5Yrs-2E7D32?style=flat-square&logo=handshake&logoColor=white)
+![Learning Path](https://img.shields.io/badge/Frontend%20Learning-1.5Yrs%20ing-0288D1?style=flat-square&logo=react&logoColor=white)
 
-이제 그 10년의 노하우에 ERP 구축 기술과 웹 최적화 역량을 더했습니다.
+![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
+![Interests](https://img.shields.io/badge/Interests-WebXR%20%7C%20React%20%7C%20VanillaJS-FF9800?style=flat-square&logo=codeforces&logoColor=white)
 
-단순히 코드를 짜는 사람이 아닌, 현장의 비효율을 찾아내어 기술로 해결하고 실제 운영(배포·보안·SEO)까지 책임지는 단단한 동료가 되겠습니다.
+![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
+
+> 리액트와 자바스크립트로 서비스를 만들어가는 프론트엔드 개발 공부중입니다.
 
 <hr/>
 
