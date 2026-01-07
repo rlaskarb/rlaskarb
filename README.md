@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nam-gyu Kim
+# 👋 Hello, I'm Nam-Kyu Kim
 
 ![INFJ](https://img.shields.io/badge/MBTI-INFJ-blueviolet?style=flat-square)
 ![Quality Control](https://img.shields.io/badge/Process%20%26%20Measurement-5Yrs-555555?style=flat-square&logo=precision-manufacturing&logoColor=white)
