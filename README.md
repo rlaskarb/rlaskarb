@@ -12,6 +12,14 @@
 
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 
+### 🃏 욕망의 항아리
+인생 '날로 먹기'를 꿈꾸지만, 성격상 요행을 바라는 대신 **매일 1커밋**을 심고 있습니다.
+
+- 🌱 **목표:** 비전공자의 듬성듬성한 지식을 채워, **제 머리숱처럼 풍성한** 깃허브 잔디밭을 만드는 것입니다.
+- 🏃 **상태:** 낮에는 공장에서 측정하고 밤에는 코드를 짜는... **이번 생에 연애는 할 수 있겠지...❤️‍🩹**
+
+
+
 <hr/>
 
 # ⚒️ 기술 역량 (Skills & Proficiency)
