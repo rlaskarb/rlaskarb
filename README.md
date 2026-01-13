@@ -6,14 +6,25 @@
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-8%20Months-0052CC?style=flat-square&logo=code&logoColor=white)
 ![UI Developer](https://img.shields.io/badge/UI%20Developer-6%20Months-D81B60?style=flat-square&logo=css3&logoColor=white)
 ![Learning while Working](https://img.shields.io/badge/Learning%20while%20Working-Frontend%20(1mo)-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 ![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
 ![Interests](https://img.shields.io/badge/Interests-WebXR%20%7C%20React%20%7C%20VanillaJS-FF9800?style=flat-square&logo=codeforces&logoColor=white)
-
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A69A&center=true&vCenter=true&width=435&lines=Factory+by+Day%2C+Refactory+by+Night+%F0%9F%9B%A0%EF%B8%8F;Capitalism-Oriented+Developer+%F0%9F%92%B8;Smart+Slave+in+Incheon+%F0%9F%8F%AD;INFJ+%7C+React+%7C+Vanilla+JS" alt="Typing SVG" />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <h3>💬 "Do I like coding? I prefer 'Capitalism-Oriented' over 'Object-Oriented'. 💸"</h3>
+  <sub>(코딩이 재밌냐고요? 저는 '객체 지향'보다 '자본주의 지향'을 선호합니다.)</sub>
+</div>
+
+<br>
 
 <hr/>
 
