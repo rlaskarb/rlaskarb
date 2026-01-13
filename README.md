@@ -14,14 +14,13 @@
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
 
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A69A&center=true&vCenter=true&width=435&lines=Factory+by+Day%2C+Refactory+by+Night+%F0%9F%9B%A0%EF%B8%8F;Capitalism-Oriented+Developer+%F0%9F%92%B8;Smart+Slave+in+Incheon+%F0%9F%8F%AD;INFJ+%7C+React+%7C+Vanilla+JS" alt="Typing SVG" />
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <h3>💬 "Do I like coding? I prefer 'Capitalism-Oriented' over 'Object-Oriented'. 💸"</h3>
