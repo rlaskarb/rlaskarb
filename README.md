@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h3>💬 Do I like coding? I prefer Capitalism-Oriented over Object-Oriented. 💸</h3>
+  <h3>💬 Do I like coding? I prefer 'Capitalism-Oriented' over 'Object-Oriented'. 💸</h3>
   <sub>(코딩이 재밌냐고요? 저는 '객체 지향'보다 '자본주의 지향'을 선호합니다.)</sub>
 </div>
 
