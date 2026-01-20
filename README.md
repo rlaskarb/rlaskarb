@@ -14,7 +14,7 @@
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
