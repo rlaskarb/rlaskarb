@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nam-Kyu Kim
+# 👋👋 Hello, I'm Nam-Kyu Kim
 
 ![INFJ](https://img.shields.io/badge/MBTI-INFJ-blueviolet?style=flat-square)
 
