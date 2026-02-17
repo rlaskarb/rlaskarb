@@ -9,7 +9,6 @@
 
 ![Subway](https://img.shields.io/badge/Location-Subway%20Coder-blue?style=flat-square&logo=metro&logoColor=white)
 ![Target](https://img.shields.io/badge/Target-Rich%20%26%20Free-green?style=flat-square&logo=cashapp&logoColor=white)
-![Future](https://img.shields.io/badge/Future_Dream-WebXR_%7C_Virtual_World-9C27B0?style=flat-square&logo=oculus&logoColor=white)
 
 ![Email](https://img.shields.io/badge/Email-rlaskarb20%40naver.com-2ea44f?style=flat-square&logo=naver&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Incheon%2C%20South%20Korea-E91E63?style=flat-square&logo=googlemaps&logoColor=white)
