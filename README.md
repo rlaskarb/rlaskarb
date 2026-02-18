@@ -1,7 +1,6 @@
 # 👋👋 Hello, I'm UlcerGatsby
 
 ![INFJ](https://img.shields.io/badge/MBTI-INFJ-blueviolet?style=flat-square)
-
 ![Quality Control](https://img.shields.io/badge/Process%20%26%20Measurement-5Yrs-555555?style=flat-square&logo=precision-manufacturing&logoColor=white)
 ![Sales Management](https://img.shields.io/badge/Sales%20%26%20Debt-5Yrs-2E7D32?style=flat-square&logo=handshake&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-8%20Months-0052CC?style=flat-square&logo=code&logoColor=white)
@@ -14,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A69A&center=true&vCenter=true&width=435&lines=Factory+by+Day%2C+Refactory+by+Night+%F0%9F%9B%A0%EF%B8%8F;Capitalism-Oriented+Developer+%F0%9F%92%B8;INFJ+%7C+React+%7C+Vanilla+JS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A69A&center=true&vCenter=true&width=435&lines=Factory+by+Day%2C+Refactory+by+Night+%F0%9F%9B%A0%EF%B8%8F;Capitalism-Oriented+Developer+%F0%9F%92%B8;INFJ+%7C+Full+Stack+%7C+Crypto+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,27 +23,38 @@
 </div>
 
 <br>
-
+<hr/>
+<br>
+<div align="center">
+  <a href="https://rlaskarb20.mycafe24.com/profile/">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20My%20Works-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  
+  <a href="https://ulcergatsby.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-Dev%20Log-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
+  </a>
+</div>
+<br>
 <hr/>
 
-# ⚒️ 기술 역량 (Skills & Proficiency)
+# 🛠️ Tech Stack & Tools
 
-| 기술 분류 | 기술 스택 | 설명 & 경험 | 숙련도<br>(자기평가) |
-| :--- | :--- | :--- | :--- |
-| **Markup & Style** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white&v=2) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | 웹 표준/접근성을 준수한 시맨틱 마크업 및 Flexbox/Grid 기반 반응형 레이아웃 구현 능숙. Sass 활용한 유지보수성 높은 스타일링 아키텍처 설계 가능. | ★★★★☆ |
-| **Frontend Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **순수 JS 기반 동적 DOM 제어**, 라이브러리 없는 SPA 로직 구현 경험. <br> `fetch`/`async`/`await` 활용 비동기 통신 및 ES6+ 문법 활용 능숙. | ★★★☆☆ |
-| | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | jQuery를 이용한 레거시 코드 분석 및 다양한 동적 UI/이벤트 구현 가능. | ★★☆☆☆ |
-| **Data & API** | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | 대용량 데이터의 **JSON 구조 최적화** 및 파싱 처리, 비동기 데이터 바인딩 경험. | ★★★☆☆ |
-| **BaaS** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | Serverless 환경에서의 DB 설계, 실시간 CRUD 연동 및 스토리지 관리 경험. | ★★☆☆☆ |
-| **Framework** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | 컴포넌트 기반 UI 구축 및 Hooks(useState/useEffect) 활용 상태 관리, <br> Axios 기반 API 연동 경험 (ERP 프로젝트). | ★★☆☆☆ |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-f5f5f5?style=for-the-badge&logo=java&logoColor=red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Java/Spring Boot 기반 REST API 흐름 이해. <br> 백엔드 개발자와의 원활한 협업을 위한 기본 아키텍처(MVC, Repository) 지식 보유. | ★★☆☆☆ |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | 기본적인 CRUD 쿼리 작성 및 DB 테이블 설계 흐름 이해. | ★★★☆☆ |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Git Flow 이해, SourceTree 및 CLI를 활용한 브랜치 전략/협업(Merge/PR) 경험. | ★★★☆☆ |
-| **Tools** | ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Figma 디자인 시안의 정교한 퍼블리싱 구현, <br> Postman API 테스트, Photoshop 기본 이미지 편집 가능. | ★★★★☆ |
+### **Frontend & UI/UX**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+### **Backend & Database**
+![Java](https://img.shields.io/badge/Java-f5f5f5?style=for-the-badge&logo=java&logoColor=red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Tools & Collaboration**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
 <hr/>
 
-# 📂  프로젝트 (Projects) &nbsp; &nbsp;
+# 📂 Projects
 
 <br>
 
