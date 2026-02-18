@@ -24,8 +24,10 @@
 
 <br>
 <hr/>
-<br>
+
 <div align="center">
+<h3>"차가운 이성(Skill)은 왼쪽에, 뜨거운 열정(Personality)은 오른쪽에 담았습니다."</h3>
+  <br>
   <a href="https://rlaskarb20.mycafe24.com/profile/">
     <img src="https://img.shields.io/badge/Portfolio-Check%20My%20Works-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -34,7 +36,7 @@
     <img src="https://img.shields.io/badge/Tistory-Dev%20Log-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
-<br>
+
 <hr/>
 
 # 🛠️ Tech Stack & Tools
